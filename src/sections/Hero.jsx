@@ -40,7 +40,7 @@ const Hero = () => {
           <HackerRoom
             position={size.deskPosition}
             scale={size.deskScale}
-            rotation={[0,4.2,0]}
+            rotation={[0,3,0]}
           />
          </HeroCamera>
 
