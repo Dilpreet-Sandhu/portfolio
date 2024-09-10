@@ -1,4 +1,5 @@
 import React from 'react'
+import CanvasLoader from '../loaders/hackerLoader'
 
 const Button = ({name,isBeam,containerClass}) => {
   return (
